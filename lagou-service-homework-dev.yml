@@ -1,0 +1,5 @@
+mysql: 
+  url: http://localhost:3306/db100
+ipMoreRequestFilter:
+  requestTimeRange: 60000
+  requestMaxCount: 20
